@@ -1,5 +1,5 @@
 # 💫 About Me:
-a iOS Developer from Turkey.
+An iOS Developer from Turkey.
 
 
 ## 🌐 Socials:
